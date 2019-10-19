@@ -1,7 +1,7 @@
-title:'About'
+title: "About"
 
-permalimk:/about/
+permalimk: /about/
 
 header:
 
-    image:'images/build.jpg'
+    image:"images/build.jpg"
