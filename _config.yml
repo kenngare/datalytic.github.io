@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "KENNEDY NGARE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KENNEDY NGARE."
+name                     :
 description              : "Data Science"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "KENNEDY NGARE"
-  avatar           : "images/kon.jpg"
+  name             : 
+  avatar           : "/images/kon.jpg"
   bio              : "Passionate on data analysis"
   location         : "Meru"
   email            :
