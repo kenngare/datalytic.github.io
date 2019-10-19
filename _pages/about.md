@@ -1,7 +1,9 @@
+---
 title: "About"
 
 permalimk: /about/
 
 header:
 
-    image:"images/build.jpg"
+  image:"images/build.jpg"
+---  
