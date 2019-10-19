@@ -5,5 +5,5 @@ permalimk: /about/
 
 header:
 
-  image:"images/build.jpg"
+  image:"images/ice.jpg"
 ---  
