@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "KENNEDY NGARE"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/kon.jpg"
   bio              : "Passionate on data analysis"
   location         : "Meru"
   email            :
